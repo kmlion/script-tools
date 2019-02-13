@@ -1,0 +1,19 @@
+Using SysV Init scripts directly:
+/etc/init.d/php-fpm restart    # typical
+/etc/init.d/php5-fpm restart   # debian-style
+/etc/init.d/php7.0-fpm restart # debian-style PHP 7
+
+Using service wrapper script
+service php-fpm restart    # typical
+service php5-fpm restart   # debian-style
+service php7.0-fpm restart # debian-style PHP 7
+
+Using Upstart (e.g. ubuntu):
+restart php7.0-fpm         # typical (ubuntu is debian-based) PHP 7
+restart php5-fpm           # typical (ubuntu is debian-based)
+restart php-fpm            # uncommon
+
+Using systemd (newer servers):
+systemctl restart php-fpm.service    # typical
+systemctl restart php5-fpm.service   # uncommon
+systemctl restart php7.0-fpm.service # uncommon PHP 7

@@ -1,0 +1,15 @@
+This might be useful, a set of key map overrides for Sublime users in Brackets, navigate to Debug -> Open User key Map and enter these (Windows users afaik):
+
+"overrides": {
+    "Ctrl-Shift-L": "edit.splitSelIntoLines",
+    "Ctrl-Alt-Up": "edit.addCursorToPrevLine",
+    "Ctrl-Alt-Down": "edit.addCursorToNextLine",
+    "Ctrl-Shift-D": "edit.duplicate",
+    "Ctrl-Shift-K": "edit.deletelines",
+    "Ctrl-D": "cmd.addNextMatch",
+    "Alt-Shift-1": "cmd.splitViewNone",
+    "Alt-Shift-2": "cmd.splitViewVertical",
+    "Alt-Shift-8": "cmd.splitViewHorizontal",
+    "Ctrl-R": "navigate.gotoDefinition",
+    "Ctrl-P": "navigate.quickOpen"
+}

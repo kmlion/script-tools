@@ -1,0 +1,5 @@
+//Voir les droits d'un dossier :
+namei -om /chemin/du/dossier
+
+//Créer des liens symboliques :
+ln  -s  /nom_du_dossier_source  nom_du_lien
