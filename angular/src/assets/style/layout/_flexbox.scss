@@ -1,0 +1,84 @@
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.flex-horizontal {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 1em;
+  align-content: flex-start;
+  justify-content: flex-start;
+}
+
+.flex-title {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: space-between;
+}
+
+.flex-server {
+  @extend .flex-horizontal;
+  align-content: flex-start;
+  justify-content: flex-start;
+}
+
+.flex-space {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: left;
+  width: 100%;
+}
+
+.fixed-bottom {
+  position: relative;
+  top: 2em;
+}
+
+.mw75 {
+  min-width: 100%;
+}
+
+.Aligner-item-top {
+  align-self: flex-start;
+}
+
+.Aligner-item-bottom {
+  align-self: flex-end;
+}
+
+.k-container {
+  padding: 1em;
+}
+
+.p-2 {
+  padding: 2em;
+}
+
+.m-r1 {
+  margin: 0 1em;
+}
+
+.fieldset-custom {
+  border-width: 1px 0 0;
+  border-style: solid;
+  border-color: lighten(#000000, 95%);
+  padding: 1em 0;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  min-height: 24em;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+
+  .t-a-c {
+    text-align: center;
+  }
+}

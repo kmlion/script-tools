@@ -1,0 +1,36 @@
+$airbus-blue: #08255a;
+
+$admin-grey: #9aa5b7;
+
+$main-blue-vdark: #011133;
+$main-blue-dark: #005587;
+$main-blue: #0085ad;
+$main-blue-light: #99dee8;
+$main-blue-vlight: #e6f3f6;
+$main-grey-dark: #9aa5b8;
+$main-grey-light: #c1c7d3;
+
+$highlight-purple: #a8228c;
+$highlight-red: #e90031;
+$highlight-pink: #df1e83;
+$highlight-orange: #ff4e00;
+$highlight-green: #83ba10;
+$highlight-blue: #009fe3;
+
+$button-primary: #0084ae;
+$button-primary-hover: #066987;
+$button-secondary: #9aa5b8;
+
+$tile-task: $highlight-orange;
+$tile-task-hover: #d74a29;
+$tile-action: #0085ad;
+$tile-action-hover: #006e92;
+$tile: #005587;
+$tile-hover: #003d62;
+
+//Overwrites for Kendu Library
+
+$success: $highlight-green;
+$info: $highlight-blue;
+$warning: $highlight-orange;
+$error: $highlight-red;

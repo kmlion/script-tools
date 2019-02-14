@@ -1,0 +1,14 @@
+// import configuration from the theme builder
+@import 'assets/style/variables';
+// import the base theme
+@import '~@progress/kendo-theme-default/scss/all';
+@import 'assets/style/main';
+
+* {
+  margin: 0;
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Roboto', 'Roboto-woff', serif;
+}

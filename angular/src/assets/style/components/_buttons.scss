@@ -1,0 +1,114 @@
+@import '../base/colors';
+
+$btn-enabled: #0084ae;
+$btn-hover: #066987;
+$btn-secondary: $main-grey-dark;
+$btn-warning: $highlight-orange;
+$btn-danger: $highlight-red;
+
+@mixin btn {
+  color: white;
+  border-radius: 0px;
+  border: none;
+  box-sizing: border-box;
+  cursor: pointer;
+  outline: none;
+  &:disabled {
+    cursor: not-allowed;
+    background-color: lighten($admin-grey, 20%);
+  }
+}
+
+@mixin btn-lg {
+  @include btn();
+  height: 40px;
+  min-width: 143px;
+}
+
+@mixin btn-sm {
+  @include btn();
+  height: 24px;
+  min-width: 98px;
+}
+
+@mixin btn-primary {
+  background: $btn-enabled;
+  &:hover {
+    background: $btn-hover;
+  }
+}
+
+@mixin btn-secondary {
+  color: $btn-secondary;
+  background: white;
+  border: 1px solid $btn-secondary;
+  &:hover {
+    background: $btn-secondary;
+    color: white;
+  }
+}
+
+@mixin btn-warning {
+  color: $btn-warning;
+  background: white;
+  border: 1px solid $btn-warning;
+  &:hover {
+    background: $btn-warning;
+    color: white;
+  }
+}
+
+@mixin btn-danger {
+  color: $btn-danger;
+  background: white;
+  border: 1px solid $btn-danger;
+  &:hover {
+    background: $btn-danger;
+    color: white;
+    border: none;
+  }
+}
+
+.btn-primary-lg {
+  @include btn-lg();
+  @include btn-primary();
+}
+
+.btn-primary-sm {
+  @include btn-sm();
+  @include btn-primary();
+}
+
+.btn-secondary-lg {
+  @include btn-lg();
+  @include btn-secondary();
+}
+
+.btn-secondary-sm {
+  @include btn-sm();
+  @include btn-secondary();
+}
+
+.btn-warning-lg {
+  @include btn-lg();
+  @include btn-warning();
+}
+
+.btn-warning-sm {
+  @include btn-sm();
+  @include btn-warning();
+}
+
+.btn-danger-lg {
+  @include btn-lg();
+  @include btn-danger();
+}
+
+.btn-danger-sm {
+  @include btn-sm();
+  @include btn-secondary();
+}
+
+.pointer-click {
+  cursor: pointer;
+}
