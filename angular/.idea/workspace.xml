@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66740fc2-7097-4b17-8c0b-4f5e0eb1decf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-638592221">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="js" value="2" />
+          <entry key="json" value="6" />
+          <entry key="md" value="1" />
+          <entry key="prettierrc" value="1" />
+          <entry key="scss" value="5" />
+          <entry key="ts" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="JSON" value="7" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Markdown" value="1" />
+          <entry key="SCSS" value="5" />
+          <entry key="TypeScript" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="11" />
+          <entry key="json" value="32" />
+          <entry key="md" value="4" />
+          <entry key="scss" value="6" />
+          <entry key="ts" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="11" />
+          <entry key="JSON" value="32" />
+          <entry key="Markdown" value="4" />
+          <entry key="SCSS" value="6" />
+          <entry key="TypeScript" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="myaccount-front" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>formControlName=&quot;domain&quot;</find>
+      <find>next</find>
+      <find>delete</find>
+      <find>return</find>
+      <find>getItem</find>
+      <find>promise</find>
+      <find>setItem</find>
+      <find>console.log(aT);</find>
+      <find>await</find>
+      <find>async</find>
+      <find>new</find>
+      <find>doc</find>
+      <find>sortab</find>
+      <find>valueNormalizer</find>
+      <find>getAccessToken</find>
+      <find>console.</find>
+      <find>export</find>
+      <find>exportFromForm</find>
+      <find>send Export to Smart component</find>
+      <find>Do you want to save this export?</find>
+      <find>console</find>
+      <find>dialog</find>
+      <find>addExport</find>
+      <find>2f82</find>
+      <find>myacc</find>
+      <find>myacco</find>
+      <find>account</find>
+      <find>2f</find>
+      <find>app</find>
+      <find>my</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\dev\workspace\myaccount-front\src\app\core\loader</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+    <option name="EXPORT_FILE_PATH" value="C:\dev\workspace\mdr" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/shared/services/data-collect.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-collect-data/mgn-collect-data.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-collect-data/mgn-collect-data.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-collect-data/collect-data/export-data.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-collect-data/mgn-collect-data-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-collect-data/mgn-export-data-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-collect-data/mgn-export-data.component.html" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-collect-data/data-list/data-list-component.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-collect-data/mgn-export-data.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-collect-data/mgn-export-data.module.ts" />
+        <option value="$PROJECT_DIR$/src/assets/i18n/en.json" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-export-data/mgn-export-data.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/error404/error404.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/admin.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/error404/error404.component.html" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-export-data/mgn-export-data-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/shared/components/admin-stats-tiles/admin-stats-tiles.component.html" />
+        <option value="$PROJECT_DIR$/src/app/core/error404/error404.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/admin-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/assets/icons/PICTO_edit-solid.svg" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-export-data/data-list/data-list-component.html" />
+        <option value="$PROJECT_DIR$/src/assets/icons/picto_Trash.svg" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-export-data/mgn-export-data.component.html" />
+        <option value="$PROJECT_DIR$/src/app/shared/services/identity.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/shared/services/initialize.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/doc.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-export-data/data-list/data-list-component.ts" />
+        <option value="$PROJECT_DIR$/src/app/shared/services/data-export.service.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-export-data/export-data/export-data.component.html" />
+        <option value="$PROJECT_DIR$/src/assets/style/layout/_flexbox.scss" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-export-data/export-data/export-data.component.ts" />
+        <option value="$PROJECT_DIR$/cypress.json" />
+        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/modules/shared.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/admin/mgn-export-data/mgn-export-data.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/src/environments/environment.hmr.ts" />
+        <option value="$PROJECT_DIR$/src/environments/environment.develop.ts" />
+        <option value="$PROJECT_DIR$/src/environments/environment.int.ts" />
+        <option value="$PROJECT_DIR$/src/environments/environment.prod.ts" />
+        <option value="$PROJECT_DIR$/src/environments/environment.ts" />
+        <option value="$PROJECT_DIR$/src/assets/mock_data/role_management.json" />
+        <option value="$PROJECT_DIR$/angular.json" />
+        <option value="$PROJECT_DIR$/src/assets/style/_variables.scss" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/styles.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/app/shared/endpoints.ts" />
+        <option value="$PROJECT_DIR$/src/environments/environment.val.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <autoscrollFromSource Scope="true" ProjectPane="true" />
+      <sortByType Scope="true" />
+      <foldersAlwaysOnTop value="false" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="cypress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="cypress" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="cypress" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="step1.js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="location" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@angular" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@progress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@progress" type="462c0819:PsiDirectoryNode" />
+              <item name="kendo-angular-grid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@progress" type="462c0819:PsiDirectoryNode" />
+              <item name="kendo-angular-grid" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@progress" type="462c0819:PsiDirectoryNode" />
+              <item name="kendo-angular-grid" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="es2015" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@progress" type="462c0819:PsiDirectoryNode" />
+              <item name="kendo-angular-grid" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="es2015" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@progress" type="462c0819:PsiDirectoryNode" />
+              <item name="kendo-angular-grid" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="es2015" type="462c0819:PsiDirectoryNode" />
+              <item name="selection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="rxjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="rxjs" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="rxjs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="rxjs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="mgn-export-data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myaccount-front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="environments" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="style" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="style" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
+          <expand>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="style" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="myaccount-front" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="style" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="cypress" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="cypress" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="integration" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="cypress" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="integration" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="examples" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="cypress" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="plugins" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="core" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="error-page" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="shared" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="assets" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="style" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="angular" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="environments" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="cypress.json&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/cypress.json&#10;app&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/app.module.ts&#10;admin-account-stats&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/services/admin/admin-account-stats.service.ts&#10;tsconfig.spec.json&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/tsconfig.spec.json&#10;navbar&#9;null&#9;null&#10;ini&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/services/initialize.service.ts&#10;app.mo&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/app.module.ts&#10;account-stats.effect.ts&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/core/user/store/effects/accounts-stats.effect.ts&#10;account-stat&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/store/effects/accounts-stats.effect.ts&#10;angular.json&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/angular.json&#10;envin&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/environments/environment.int.ts&#10;accounts.json&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/assets/mock_data/accounts.json&#10;.service&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/core/admin/services/admin-account-stats.service.ts&#10;actions&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/store/actions/shared.actions.ts&#10;packa&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/package.json&#10;user&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/components/user-stats-tiles/user-stats-tiles.component.ts&#10;admin&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/core/admin/admin.module.ts&#10;shared&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/modules/shared.module.ts&#10;base&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/store/reducers/base.reducer.ts&#10;temp-grid.service.ts&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/services/temp-grid.service.ts&#10;tslint&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/tslint.json&#10;tsconfig.app.json&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/tsconfig.app.json&#10;effects&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/core/user/store/effects&#10;route&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/node_modules/@angular/router/src/router_preloader.d.ts&#10;poly&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/polyfills.ts&#10;auth.interceptor&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/interceptors/auth.interceptor.ts&#10;language&#9;null&#9;null&#10;interface&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/interfaces&#10;nav&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/components/navbar/navbar.component.html&#10;prettier&#9;ACTION&#9;ReformatWithPrettierAction&#10;environment&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/environments/environment.ts&#10;ROUTE&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/node_modules/@angular/router/src/router_module.d.ts&#10;step1&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/cypress/integration/step1.js&#10;service&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/services/temp-grid.service.ts&#10;endpoin&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/app/shared/endpoints.ts&#10;cypres&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/cypress.json&#10;environ&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/environments/environment.ts&#10;cypress&#9;RUN_CONFIGURATION&#9;cypress&#10;enviro&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/environments/environment.ts&#10;envir&#9;FILE&#9;file://C:/dev/workspace/myaccount-front/src/environments/environment.ts&#10;endpoint&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.11.0" />
+    <property name="js.introduce.parameter.add.jsdoc" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="node.js.selected.package.tslint" value="C:\dev\workspace\myaccount-front\node_modules\tslint" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\dev\workspace\myaccount-front\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\myaccount-front\src\app\core\error404" />
+      <recent name="C:\dev\workspace\myaccount-front\src\app\shared\enums" />
+      <recent name="C:\dev\workspace\myaccount-front\src\app\shared\interfaces\admin" />
+      <recent name="C:\dev\workspace\myaccount-front\src\app\shared\interfaces\admin\" />
+      <recent name="C:\dev\workspace\myaccount-front\src\app\core\admin\mgn-collect-data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspace\myaccount-front\src\app\shared\interceptors" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Angular Application">
+    <configuration name="Tests" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="cy:gui" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="cy:gui" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="cy:run" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="cy:run" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="doc" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="doc" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Angular Application" />
+      <item itemvalue="Karma.Tests" />
+      <item itemvalue="npm.Angular CLI Server" />
+      <item itemvalue="Protractor.E2E Tests" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.dev" />
+      <item itemvalue="npm.doc" />
+      <item itemvalue="npm.cy:run" />
+      <item itemvalue="npm.cy:gui" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.cy:gui" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.cy:run" />
+        <item itemvalue="npm.doc" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66740fc2-7097-4b17-8c0b-4f5e0eb1decf" name="Default Changelist" comment="" />
+      <created>1539859167798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539859167798</updated>
+      <workItem from="1539859170584" duration="4123000" />
+      <workItem from="1539940783656" duration="948000" />
+      <workItem from="1539942332794" duration="745000" />
+      <workItem from="1540193737639" duration="6221000" />
+      <workItem from="1540285581627" duration="5038000" />
+      <workItem from="1540369497538" duration="5360000" />
+      <workItem from="1540458541576" duration="6352000" />
+      <workItem from="1540543787505" duration="1052000" />
+      <workItem from="1540544901923" duration="2113000" />
+      <workItem from="1540547364305" duration="10023000" />
+      <workItem from="1540585157143" duration="44000" />
+      <workItem from="1540634728467" duration="11000" />
+      <workItem from="1540634801726" duration="170000" />
+      <workItem from="1540635024192" duration="19000" />
+      <workItem from="1540635269921" duration="62000" />
+      <workItem from="1540635596717" duration="75000" />
+      <workItem from="1540635905720" duration="6000" />
+      <workItem from="1540636676643" duration="38000" />
+      <workItem from="1540636774722" duration="411000" />
+      <workItem from="1540637525506" duration="51000" />
+      <workItem from="1540637604483" duration="238000" />
+      <workItem from="1540914569639" duration="1404000" />
+      <workItem from="1541589503461" duration="1680000" />
+      <workItem from="1541670762184" duration="8433000" />
+      <workItem from="1541757325879" duration="22288000" />
+      <workItem from="1542111889295" duration="4234000" />
+      <workItem from="1542187617775" duration="7543000" />
+      <workItem from="1542201032032" duration="11816000" />
+      <workItem from="1542276858323" duration="16805000" />
+      <workItem from="1542315295606" duration="1138000" />
+      <workItem from="1542375078507" duration="4705000" />
+      <workItem from="1542880020064" duration="1233000" />
+      <workItem from="1542972808037" duration="3053000" />
+      <workItem from="1542987080711" duration="1143000" />
+      <workItem from="1542988873433" duration="3599000" />
+      <workItem from="1543224746522" duration="5327000" />
+      <workItem from="1543232654039" duration="15376000" />
+      <workItem from="1543397728859" duration="4779000" />
+      <workItem from="1543415404416" duration="1256000" />
+      <workItem from="1543416700200" duration="10462000" />
+      <workItem from="1543483038661" duration="8883000" />
+      <workItem from="1543504997759" duration="12488000" />
+      <workItem from="1543565252343" duration="37000" />
+      <workItem from="1543570290992" duration="668000" />
+      <workItem from="1543590033242" duration="599000" />
+      <workItem from="1543843090070" duration="186000" />
+      <workItem from="1543843342377" duration="24775000" />
+      <workItem from="1544087611685" duration="37925000" />
+      <workItem from="1544446119735" duration="2979000" />
+      <workItem from="1544522032471" duration="3403000" />
+      <workItem from="1544533483882" duration="679000" />
+      <workItem from="1544534275747" duration="3521000" />
+      <workItem from="1544620562659" duration="7249000" />
+      <workItem from="1544777845394" duration="11031000" />
+      <workItem from="1545042464098" duration="1471000" />
+      <workItem from="1545055381548" duration="21283000" />
+      <workItem from="1545233299331" duration="1187000" />
+      <workItem from="1545236141413" duration="6846000" />
+      <workItem from="1545385813995" duration="11838000" />
+      <workItem from="1546620316604" duration="8486000" />
+      <workItem from="1546688982614" duration="8824000" />
+      <workItem from="1546852404100" duration="40589000" />
+      <workItem from="1546953068517" duration="34138000" />
+      <workItem from="1547212939615" duration="13436000" />
+      <workItem from="1547293894739" duration="16825000" />
+      <workItem from="1547459222911" duration="23389000" />
+      <workItem from="1547544194758" duration="17593000" />
+      <workItem from="1547633392085" duration="29115000" />
+      <workItem from="1547719064539" duration="16726000" />
+      <workItem from="1547809246114" duration="18590000" />
+      <workItem from="1547831838007" duration="18117000" />
+      <workItem from="1548086418836" duration="9037000" />
+      <workItem from="1548145373598" duration="134000" />
+      <workItem from="1548146720038" duration="39323000" />
+      <workItem from="1548341089062" duration="24672000" />
+      <workItem from="1548669058939" duration="2484000" />
+      <workItem from="1548772226740" duration="10298000" />
+      <workItem from="1548860041429" duration="6254000" />
+      <workItem from="1549464616246" duration="498000" />
+      <workItem from="1550105413966" duration="796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="665746000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" sideWeight="0.502584" side_tool="true" weight="0.16471216" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49741602" visible="true" weight="0.20575693" />
+      <window_info id="Project Explorer" order="2" weight="0.3295302" />
+      <window_info id="DB Browser" order="3" weight="0.3297587" />
+      <window_info id="Job Explorer" order="4" weight="0.3295302" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32729805" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5080537" weight="0.22253129" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991655" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286908" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="TypeScript" order="8" weight="0.32684284" />
+      <window_info anchor="bottom" x="21" y="-866" width="1876" height="639" id="Terminal" order="9" sideWeight="0.60268456" visible="true" weight="0.2875817" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4919463" side_tool="true" weight="0.22284123" />
+      <window_info anchor="bottom" id="Console" order="11" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Thumbnails" order="14" weight="0.32823366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="npm" order="2" visible="true" weight="0.18923241" />
+      <window_info anchor="right" id="Structure" order="3" sideWeight="0.502809" weight="0.211126" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295302" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.24932976" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.497191" visible="true" weight="0.20469798" />
+      <window_info id="Project Explorer" order="2" weight="0.3295302" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="Job Explorer" order="4" weight="0.3295302" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32729805" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7872483" weight="0.22841226" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286908" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="TypeScript" order="8" weight="0.32729805" />
+      <window_info anchor="bottom" x="21" y="-866" width="1876" height="639" id="Terminal" order="9" sideWeight="0.60268456" visible="true" weight="0.28830084" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.21275167" side_tool="true" weight="0.22284123" />
+      <window_info anchor="bottom" id="Console" order="11" />
+      <window_info anchor="bottom" id="DB Execution Console" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Thumbnails" order="14" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="npm" order="3" visible="true" weight="0.07181208" />
+      <window_info anchor="right" id="Structure" order="4" sideWeight="0.502809" weight="0.21140939" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295302" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/core/user/landing-page/landing-page.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/assets/style/layout/_flexbox.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1886">
+          <caret line="82" column="3" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/cypress.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/mock_data/account-list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/fixtures/profile.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/fixtures/example.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/fixtures/users.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/integration/examples/actions.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/integration/step1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/admin/mgn-export-data/export-data/export-data.component.scss" />
+    <entry file="file://$PROJECT_DIR$/src/app/modules/shared.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/admin/mgn-export-data/mgn-export-data-routing.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/admin/mgn-export-data/mgn-export-data.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/admin/admin-routing.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/admin/admin.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/admin/landing-page/landing-page.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/admin/mgn-export-data/export-data/export-data.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/admin/mgn-export-data/mgn-export-data.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/core/admin/mgn-export-data/mgn-export-data.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/store/index.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/store/effects/index.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/store/effects/accounts-stats.effect.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/store/actions/shared.actions.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/store/actions/base.actions.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/error-page/error-page.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/error-page/error-page.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/mock_data/role_management.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/mock_data/accounts.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/mock_data/account-detail.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/error-page/error-page.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="73" column="80" selection-start-line="73" selection-start-column="80" selection-end-line="73" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/style/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/style/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/integration/examples/misc.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="56" column="38" lean-forward="true" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.val.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.prod.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.int.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.hmr.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.develop.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cypress/plugins/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shared/endpoints.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="14" column="87" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+          <caret line="15" column="87" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../../docs/Init/alir-val.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../docs/Init/common.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../../docs/Init/ldap-val.sql" dialect="TSQL" />
+  </component>
+</project>
