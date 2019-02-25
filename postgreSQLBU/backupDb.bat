@@ -26,7 +26,7 @@
    echo your username is %USERNAME%
    echo your hostname is %HOSTNAME%
    
-   SET PGPASSWORD=Sopra123*
+   SET PGPASSWORD=******
    echo on  
    pg_dump -h %HOSTNAME% -p 5432 -U %USERNAME% -F t --encoding "UTF8" %DATABASENAME% > .\bdd\%datestr%\%BACKUP_FILE%
    
